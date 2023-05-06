@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66984e65.css",
+    "main.js": "/static/js/main.da32339f.js",
+    "static/media/Tokenomics.png": "/static/media/Tokenomics.8743803880840a6a5de5.png",
+    "static/media/BluePepeHat.png": "/static/media/BluePepeHat.03d0aae4a61c7f81b132.png",
+    "static/media/HeroBG-updated-min.jpg": "/static/media/HeroBG-updated-min.25dc3a348e68c0f77eed.jpg",
+    "static/media/BEPELogo.png": "/static/media/BEPELogo.e71dd5e738c55557db30.png",
+    "static/media/BluePepeLeft.png": "/static/media/BluePepeLeft.86b7824caa6b3d415583.png",
+    "static/media/AIYieldIcon-min.png": "/static/media/AIYieldIcon-min.ae88073a457e8dccd5e8.png",
+    "static/media/Azonix.otf": "/static/media/Azonix.9091792cb1720a8c6ea0.otf",
+    "index.html": "/index.html",
+    "main.66984e65.css.map": "/static/css/main.66984e65.css.map",
+    "main.da32339f.js.map": "/static/js/main.da32339f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66984e65.css",
+    "static/js/main.da32339f.js"
+  ]
+}
