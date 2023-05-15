@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.66984e65.css",
-    "main.js": "/static/js/main.ed65a5d3.js",
+    "main.js": "/static/js/main.d798c5c3.js",
+    "static/media/AuditIcon.png": "/static/media/AuditIcon.10a1434e014a201a9f92.png",
     "static/media/Tokenomics.png": "/static/media/Tokenomics.8743803880840a6a5de5.png",
+    "static/media/KYCIcon.png": "/static/media/KYCIcon.bfca907788999b3c67a6.png",
     "static/media/BluePepeHat.png": "/static/media/BluePepeHat.03d0aae4a61c7f81b132.png",
     "static/media/HeroBG-updated-min.jpg": "/static/media/HeroBG-updated-min.25dc3a348e68c0f77eed.jpg",
     "static/media/BEPELogo.png": "/static/media/BEPELogo.e71dd5e738c55557db30.png",
     "static/media/BluePepeLeft.png": "/static/media/BluePepeLeft.86b7824caa6b3d415583.png",
     "static/media/AIYieldIcon-min.png": "/static/media/AIYieldIcon-min.ae88073a457e8dccd5e8.png",
+    "static/media/NoTaxIcon.png": "/static/media/NoTaxIcon.6c97a723ee8194e28be2.png",
+    "static/media/PinkSaleIcon.png": "/static/media/PinkSaleIcon.1c25e2a3c52c3036f65c.png",
     "static/media/Azonix.otf": "/static/media/Azonix.9091792cb1720a8c6ea0.otf",
     "index.html": "/index.html",
     "main.66984e65.css.map": "/static/css/main.66984e65.css.map",
-    "main.ed65a5d3.js.map": "/static/js/main.ed65a5d3.js.map"
+    "main.d798c5c3.js.map": "/static/js/main.d798c5c3.js.map"
   },
   "entrypoints": [
     "static/css/main.66984e65.css",
-    "static/js/main.ed65a5d3.js"
+    "static/js/main.d798c5c3.js"
   ]
 }
