@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.66984e65.css",
-    "main.js": "/static/js/main.2f9e5139.js",
+    "main.js": "/static/js/main.9d320ed3.js",
     "static/media/AuditIcon.png": "/static/media/AuditIcon.10a1434e014a201a9f92.png",
     "static/media/Tokenomics.png": "/static/media/Tokenomics.8743803880840a6a5de5.png",
     "static/media/KYCIcon.png": "/static/media/KYCIcon.bfca907788999b3c67a6.png",
@@ -15,10 +15,10 @@
     "static/media/Azonix.otf": "/static/media/Azonix.9091792cb1720a8c6ea0.otf",
     "index.html": "/index.html",
     "main.66984e65.css.map": "/static/css/main.66984e65.css.map",
-    "main.2f9e5139.js.map": "/static/js/main.2f9e5139.js.map"
+    "main.9d320ed3.js.map": "/static/js/main.9d320ed3.js.map"
   },
   "entrypoints": [
     "static/css/main.66984e65.css",
-    "static/js/main.2f9e5139.js"
+    "static/js/main.9d320ed3.js"
   ]
 }
