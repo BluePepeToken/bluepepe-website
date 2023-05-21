@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.66984e65.css",
-    "main.js": "/static/js/main.9d320ed3.js",
+    "main.js": "/static/js/main.d9bdcbe5.js",
     "static/media/AuditIcon.png": "/static/media/AuditIcon.10a1434e014a201a9f92.png",
     "static/media/Tokenomics.png": "/static/media/Tokenomics.8743803880840a6a5de5.png",
     "static/media/KYCIcon.png": "/static/media/KYCIcon.bfca907788999b3c67a6.png",
@@ -12,13 +12,17 @@
     "static/media/AIYieldIcon-min.png": "/static/media/AIYieldIcon-min.ae88073a457e8dccd5e8.png",
     "static/media/NoTaxIcon.png": "/static/media/NoTaxIcon.6c97a723ee8194e28be2.png",
     "static/media/PinkSaleIcon.png": "/static/media/PinkSaleIcon.1c25e2a3c52c3036f65c.png",
+    "static/media/pinksale.png": "/static/media/pinksale.a19677b63c207a2435e1.png",
+    "static/media/cgecko.png": "/static/media/cgecko.ab302545961dbc39b66d.png",
+    "static/media/dexview.png": "/static/media/dexview.a11d36744e8bbe59b7d8.png",
     "static/media/Azonix.otf": "/static/media/Azonix.9091792cb1720a8c6ea0.otf",
+    "static/media/bscscan.png": "/static/media/bscscan.9541fc59a84c336b99ca.png",
     "index.html": "/index.html",
     "main.66984e65.css.map": "/static/css/main.66984e65.css.map",
-    "main.9d320ed3.js.map": "/static/js/main.9d320ed3.js.map"
+    "main.d9bdcbe5.js.map": "/static/js/main.d9bdcbe5.js.map"
   },
   "entrypoints": [
     "static/css/main.66984e65.css",
-    "static/js/main.9d320ed3.js"
+    "static/js/main.d9bdcbe5.js"
   ]
 }
